@@ -1,5 +1,10 @@
 {
   "name": "flow-atl-proxy",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
 }
